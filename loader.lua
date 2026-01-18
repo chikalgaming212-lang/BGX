@@ -6,6 +6,6 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
-local url = "https://raw.githubusercontent.com/chikalgaming212/FishIt-Delta-2026/main/src/main.lua"
+local url = "https://raw.githubusercontent.com/chikalgaming212/BGX/main/src/main.lua"
 
 loadstring(game:HttpGet(url))()
