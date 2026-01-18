@@ -1,7 +1,6 @@
 --==================================================
--- 🎣 Fish It Delta 2026 — FULL UPGRADE (FINAL)
 -- Executor : Delta (Mobile)
--- Author   : Chikal Delta
+-- Author   : BGX
 --==================================================
 
 if not game:IsLoaded() then game.Loaded:Wait() end
